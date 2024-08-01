@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for ZC_RAN_ATRAV'
+define service ZUI_RAN_ATRAV_O4 {
+  expose ZC_RAN_ATRAV;
+}
